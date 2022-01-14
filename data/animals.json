@@ -162,6 +162,24 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "larry",
+      "species": "cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "18"
     }
   ]
 }
